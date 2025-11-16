@@ -2,7 +2,7 @@
   "name": "medical-imaging-agent-frontend",
   "version": "1.0.0",
   "description": "React frontend for Medical Imaging Agent",
-  "homepage": "https://your-username.github.io/medical-imaging-agent",
+  "homepage": ".",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
