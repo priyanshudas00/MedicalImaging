@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medical-imaging-agent/static/css/main.00edf0b4.css",
+    "main.js": "/medical-imaging-agent/static/js/main.4a86f061.js",
+    "index.html": "/medical-imaging-agent/index.html",
+    "main.00edf0b4.css.map": "/medical-imaging-agent/static/css/main.00edf0b4.css.map",
+    "main.4a86f061.js.map": "/medical-imaging-agent/static/js/main.4a86f061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00edf0b4.css",
+    "static/js/main.4a86f061.js"
+  ]
+}
